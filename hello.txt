@@ -1,2 +1,3 @@
 Hello, Git!
 Welcome to my Git journey!
+New feature: Say hi!
