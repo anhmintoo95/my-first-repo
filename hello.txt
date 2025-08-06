@@ -1,4 +1,2 @@
 Hello, Git!
-Welcome to my Git journey!
-New feature: Say hi!
-add test git pull
+Edited online: Team A!
